@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello there! 🙂
 
-<!--
-**rodrigocelmer/rodrigocelmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 I'm <strong>Rodrigo Celmer</strong>, an electronic engineering student, currently coursing Growdev's [Full-Stack Program](https://www.growdev.com.br/starter-2)
 
-Here are some ideas to get you started:
+👨‍🎓 A technology enthusiast, always looking for something new to learn 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 I have more than six years of experience in writing firmware for microprocessors, using the C language
+
+👨‍💼 Former firmware developer at [@raksagro](https://github.com/raksagro)
+
+🌱 I'm currently learning:
+  - HTML
+  - CSS
+  - JavaScript
+
+🔭 I'm looking for learning:
+  - Back-End
+  - Databases
+  - Software quality
+
+🍺 During my free time I like to go to the gym, watch a nice movie and have a beer or two with friends
+
+📫 Feel free to get in touch!
