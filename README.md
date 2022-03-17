@@ -13,7 +13,7 @@
   - CSS
   - JavaScript
 
-🔭 I'm looking for learning:
+🔭 I intend to learn later this year:
   - Back-End
   - Database management
   - Software quality
