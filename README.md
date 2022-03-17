@@ -6,7 +6,7 @@
 
 🤖 I have more than six years of experience in writing firmware for microprocessors, using the C language
 
-👨‍💼 Former firmware developer at [@raksagro](https://github.com/raksagro)
+👨‍💼 Former firmware developer at [@raksagro](https://raks.com.br/)
 
 🌱 I'm currently learning:
   - HTML
