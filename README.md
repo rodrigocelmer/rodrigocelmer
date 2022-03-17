@@ -15,7 +15,7 @@
 
 🔭 I'm looking for learning:
   - Back-End
-  - Databases
+  - Database management
   - Software quality
 
 🍺 During my free time I like to go to the gym, watch a nice movie and have a beer or two with friends
