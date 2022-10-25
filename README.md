@@ -9,7 +9,7 @@
 👨‍💼 Techical Support Engineer at SAP Ariba
 
 🤓 Technical skills:
-  - HTML, CSS, 
+  - HTML, CSS
   - JS/Node/TS
   - React
   - API
