@@ -6,16 +6,18 @@
 
 🤖 I have more than six years of experience in writing firmware for microprocessors, using the C language
 
-👨‍💼 Former firmware developer at [@raksagro](https://raks.com.br/)
+👨‍💼 Techical Support Engineer at SAP Ariba
+
+🤓 Technical skills:
+  - HTML, CSS, 
+  - JS/Node/TS
+  - React
+  - API
 
 🌱 I'm currently learning:
-  - HTML
-  - CSS
-  - JavaScript
+  - Database management
 
 🔭 I intend to learn later this year:
-  - Back-End
-  - Database management
   - Software quality
 
 🍺 During my free time I like to go to the gym, watch a nice movie and have a beer or two with friends
