@@ -12,12 +12,10 @@
   - HTML, CSS
   - JS/Node/TS
   - React
-  - API
+  - API development and management
+  - Database management (SQL and NoSQL)
 
 🌱 I'm currently learning:
-  - Database management
-
-🔭 I intend to learn later this year:
   - Software quality
 
 🍺 During my free time I like to go to the gym, watch a nice movie and have a beer or two with friends
